@@ -25,24 +25,26 @@ Table of Contents
 • Suggested / Placeholder Resources
 • Contributing
 
-Introduction
+**Introduction**
 This repository is a practical, day-by-day 90-day learning plan for Artificial Intelligence. It is designed for someone starting from zero who wants a clear path to study, build small projects, and finish with portfolio pieces and interview-ready material.
-Note: Sources are optional, you can replace them with your preference.
+*Note: Sources are optional, you can replace them with your preference.*
 
 Goals & Audience
 Goals
-• Learn the essential math, programming, and ML concepts used in AI.
-• Build hands-on projects that can be shown in a portfolio.
-• Be able to train, evaluate, and deploy simple models.
-• Prepare a one-page portfolio/resume and practice interviews.
-Who this is for
+1. Learn the essential math, programming, and ML concepts used in AI.
+2. Build hands-on projects that can be shown in a portfolio.
+3. Be able to train, evaluate, and deploy simple models.
+4. Prepare a one-page portfolio/resume and practice interviews.
+
+**Who this is for?**
 • Absolute beginners who know how to use a computer and want to learn AI.
 • People who prefer a focused, daily plan with small practical goals.
-How to use this plan
+
+**How to use this plan**
 • Aim for 1–3 hours per day depending on your availability. Some days will require more coding, some are reading-heavy.
 • Each week focuses on one main topic. At the end of the week, build a tiny project( put theory into practice) or notebook to practice.
 
-~PLAN~
+**PLAN**
 
 Day 1-7: Math & Foundations
 • Day 1: Linear algebra basics — vectors, matrices, matrix multiplication. [https://youtu.be/JnTa9XtvmfI?si=VXFytii_XGLGrsEj]
@@ -164,12 +166,14 @@ Day 85-88: Portfolio, Resume & GitHub polish
 Day 89-90: Apply & Interview Prep
 • Day 89: Prepare STAR stories, project-talk scripts, and technical notes. There are tons of them in github.com 
 • Day 90: Mock interviews: whiteboard problems, ML system design basics.
+
 Capstone Project Ideas
 • Image classifier with transfer learning + small web demo.
 • Question answering system using a fine-tuned transformer.
 • Recommendation system on a small dataset with explainability.
 • Time-series forecasting model with dashboard visualization.
 • End-to-end ML pipeline: dataset → training → deployment → monitoring.
+
 Skills Checklist
 • Linear algebra & calculus basics
 • Python, NumPy, Pandas
@@ -193,15 +197,13 @@ If you'd like to contribute:
 • Open an issue to suggest changes.
 • Send a PR to add resources, improve the schedule, or add example notebooks.
 • Keep changes beginner-friendly and focused on reproducible, small steps.
-License
-This repository uses the MIT License. Replace with your preferred license if needed.
 
 Author:
 Sarina nemati lay
-Contact:
-https://x.com/sarina_nemati
-sarinanematiinbox@gmail.com 
-sarinanematilay@gmail.com 
+-Contact:
+-https://x.com/sarina_nemati
+-sarinanematiinbox@gmail.com 
+-sarinanematilay@gmail.com 
 
 
 Good luck ❤️
